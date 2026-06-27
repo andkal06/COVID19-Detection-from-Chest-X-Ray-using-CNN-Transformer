@@ -124,35 +124,6 @@ The project includes:
 ├── results/
 └── README.md
 ```
-
----
-
-## How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/your-repository.git
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the dataset from Kaggle
-
-https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
-
-4. Place the dataset in the appropriate directory.
-
-5. Run the notebook
-
-```bash
-jupyter notebook "COVID DETECTION USING DEEP LEARNING.ipynb"
-```
-
 ---
 
 ## Features
